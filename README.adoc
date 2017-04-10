@@ -1,1 +1,8 @@
-= GRADYEN YÖNTEMLERİ
+:toc: macro
+toc::[]
+
+= *OPTİMİZASYON TEORİSİ* +
+== *ÇOK BOYUTLU KISITLAMASIZ OPTİMİZASYON* +
+=== *DOĞRUDAN YÖNTEMLER* +
+=== *GRADYEN YÖNTEMLERİ* +
+Adından da anlaşılacağı gibi, *gradyen yöntemleri*, optimumu belirleyen etkili algoritmalar üretmek için türev bilgilerini doğrudan kullanır. Bu yöntem en hızlı artan veya en hızlı azalan yön olarak adlandırılır. Başlangıç adımı olarak bir başlangıç noktası alınır ve amaç fonksiyonunu en hızlı geliştiren yönde hareket edilir. Bu yön amaç fonksiyonunun gradyen
