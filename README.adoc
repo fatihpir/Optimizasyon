@@ -5,6 +5,11 @@ toc::[]
 == *ÇOK BOYUTLU KISITLAMASIZ OPTİMİZASYON* +
 === *DOĞRUDAN YÖNTEMLER* +
 === *GRADYEN YÖNTEMLERİ* +
-Adından da anlaşılacağı gibi, *gradyen yöntemleri*, optimumu belirleyen etkili algoritmalar üretmek için türev bilgilerini doğrudan kullanır. +
+Adından da anlaşılacağı gibi, *gradyen yöntemleri*, optimumu belirleyen etkili algoritmalar üretmek için türev bilgilerini doğrudan kullanır. 
+
 ==== *Gradyenler ve Hessianlar* +
+Bir boyutlu fonksiyonun birinci türevi, diferansiyeli alınan fonksiyonun eğilimini veya o noktadaki teğetini ifade eder.
+
+ Örneğin; eğimin pozitif olması, bağımsız değişkeni artırmanın incelenen fonksiyonun değerini artıracağı anlamındadır. +
+ 
 
