@@ -26,4 +26,6 @@ image::resim2.png[Giriş,width=15%]
 
 Gradyen (Del f olarak da adlandırılan vektör)  yukarıdaki şekildeki gibi ifade edilir. _f(x,y)_ fonksiyonunun _x=a_ ve _y=b_ noktasındaki yöne bağlı türevini ifade eder. +
 
- *Gradyeni nasıl kullanırız?* Dağa tırmanma problemi için, eğer en hızlı şekilde yükseklik kazanmak istiyorsak, gradyen bize yerel olarak hangi yönde ilerlememiz gerektiğini ve bu yönde gidersek ne kadar kazanacağımızı söyler. Ancak bu stratejinin bizi her zaman doğrudan zirveye ulaştırmayacağını unutmamalıyız.
+ Gradyeni nasıl kullanırız? Dağa tırmanma problemi için, eğer en hızlı şekilde yükseklik kazanmak 
+ istiyorsak gradyen bize yerel olarak hangi yönde ilerlememiz gerektiğini ve bu yönde gidersek ne kadar 
+ kazanacağımızı söyler.Ancak bu stratejinin bizi her zaman doğrudan zirveye ulaştırmayacağını unutmamalıyız.
