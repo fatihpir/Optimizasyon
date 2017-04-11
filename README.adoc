@@ -2,7 +2,6 @@
 toc::[]
 
 = *ÇOK BOYUTLU KISITLAMASIZ OPTİMİZASYON* +
-== *DOĞRUDAN YÖNTEMLER* +
 == *GRADYEN YÖNTEMLERİ* +
 Adından da anlaşılacağı gibi, *gradyen yöntemleri*, optimumu belirleyen etkili algoritmalar üretmek için türev bilgilerini doğrudan kullanır. En hızlı artan veya en hızlı azalan yön olarak da adlandırılır. İlk adım olarak bir başlangıç noktası seçilir ve amaç fonksiyonunu en hızlı geliştiren yönde hareket edilir. 
 
