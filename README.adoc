@@ -19,3 +19,9 @@ Bir boyutlu fonksiyonun birinci türevi, diferansiyeli alınan fonksiyonun eğil
 İki boyutlu bir _f(x,y)_ fonksiyonunu ele alalım ve bu fonksiyonun bir dağın üzerindeki konumumuzu temsil ettiğini varsayalım. Dağın üzerinde belirli bir _(a,b)_ konumunda olduğunuzu düşünelim. Herhangi bir doğrultudaki eğim; yönü belirtmenin bir yolu, yöne bağlı gradyen x ekseni ile _θ_ açısı yapan  bir _h_ ekseni boyunca tanımlanır. Bu yeni eksen boyunca yükseklik yeni bir _g(h)_ fonksiyonu olarak düşünülebilir. Eğer konumunuzu bu eksenin başlangıcı olarak tanımlarsanız _(yani h=0)_, bu yöndeki eğim _g'(0)_ olacaktır. Yöne bağlı türev adı verilen bu eğim x ve y eksenleri boyunca alınan kısmi türevlerle hesaplanabilir.
 
 image::resim1.png[Giriş,width=25%]
+
+Burada kısmi türevler _x=a_ ve _y=b_ noktalarında hesaplanmıştır. Amacımız, bir sonraki adımda en fazla yükseltiyi sağlamak olduğundan; *_"En dik çıkış hangi yöndedir ?"_* sorusuna yanıt bulmamız gerekir. 
+
+image::resim2.png[Giriş,width=25%]
+
+Gradyen (*Del f* olarak da adlandırılan vektör)  yukarıdaki şekildeki gibi ifade edilir. _f(x,y)_ fonksiyonunun _x=a_ ve _y=b_ noktasındaki yöne bağlı türevini ifade eder.
