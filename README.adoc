@@ -29,3 +29,6 @@ Gradyen (Del f olarak da adlandırılan vektör)  yukarıdaki şekildeki gibi if
  Dağa tırmanma problemi için, eğer en hızlı şekilde yükseklik kazanmak istiyorsak gradyen bize yerel 
  olarak hangi yönde ilerlememiz gerektiğini ve bu yönde gidersek ne kadar kazanacağımızı söyler. 
  Ancak bu stratejinin bizi her zaman doğrudan zirveye ulaştırmayacağını unutmamalıyız.
+ 
+*Hessian* +
+Bir boyutlu problemlerde hem birinci türev hem de ikinci türev optimumun aranmasında önemlidir. Birinci türev (_i_ ) fonksiyonun en dik yörüngesini belirler ve (_ii_ ) optimuma ulaşıldığını belirtir. Optimum noktasına gelindiğinde ikinci türev bir maksimumda mı (negatig _f''(x)_) yoksa bir minimumda mı (pozitif _f''(x)_) olduğumuzu söyler. 
