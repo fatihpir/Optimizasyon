@@ -36,4 +36,5 @@ Bir boyutlu problemlerde hem birinci türev hem de ikinci türev optimumun aranm
 image::resim3.png[Giriş,width=25%]
 
 Üç durum söz konusu olabilir:
-- Eğer |H|>0 ve ise
+
+image::resimpng4.png[Giriş,width=60%]
