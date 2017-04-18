@@ -33,7 +33,7 @@ Gradyen (Del f olarak da adlandırılan vektör)  yukarıdaki şekildeki gibi if
 *Hessian* +
 Bir boyutlu problemlerde hem birinci türev hem de ikinci türev optimumun aranmasında önemlidir. Birinci türev (_i_ ) fonksiyonun en dik yörüngesini belirler ve (_ii_ ) optimuma ulaşıldığını belirtir. Optimum noktasına gelindiğinde ikinci türev bir maksimumda mı (negatig _f''(x)_) yoksa bir minimumda mı (pozitif _f''(x)_) olduğumuzu söyler. Bir minimum mu yoksa maksimum mu olduğunu sadece x ve y'ye göre ikinci türevlerle değil aynı zamanda x ve y'ye göre karışık ikinci türeve de bağlıdır. 
 
-image::resim3.png[Giriş,width=20%]
+image::resim3.png[Giriş,width=25%]
 
 Üç durum söz konusu olabilir:
-- Eğer |H|>0 ve image::resim3.png[Giriş,width=20%] ise
+- Eğer |H|>0 ve ise
